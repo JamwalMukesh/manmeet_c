@@ -1,0 +1,9 @@
+Escape Sequence or Escape Character:- They are special character which have some meaning.
+And they are begin with backslash \
+1) \n for New Line
+2) \t for Tab (By default tab has 8 spaces)
+3) \" for double quotes
+4) \' for single quote 
+5) \\ for backslash
+6) \b for backspace (remove a character from its left)
+7) \r for carriage return (means move the cursor at beginning of the line )
